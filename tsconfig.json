@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "declaration": false,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "outDir": "dist",
+        "rootDir": ".",
+        "sourceMap": true,
+        "noEmitHelpers": true,
+        "target": "es5",
+        "typeRoots": [
+            "node_modules/@types"
+        ]
+    },
+    "include": [
+        "./src/**/*.module.ts",
+        "./src/*.d.ts"
+    ],
+    "compileOnSave": false
+}
