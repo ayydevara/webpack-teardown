@@ -49,8 +49,8 @@
         "raw-loader": "^0.5.1",
         "to-string-loader": "^1.1.5",
         "typescript": "~2.1.4",
-        "webpack": "2.2.0-rc.3",
-        "webpack-dev-server": "2.2.0-rc.0",
+        "webpack": "4.28.3",
+        "webpack-dev-server": "3.1.14",
         "webpack-merge": "^0.15.0"
     }
 }
